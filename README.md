@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey! I'm El-Gatos or Misty on other platforms
 
-<!--
-**El-Gatos/El-Gatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! Here’s a quick overview:
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Passionate about technology, coding, a bunch of other things
+- Interested in Web dev, web apps, and machine learning
+- Beginner trying to learn from scratch
+
+## 💼 Skills
+
+- Programming: Python, JS/TS, HTML5, CSS
+- Tools: VSC, GIT
+- Cloud: Firestore!
+- Other: Adobe Lightroom and other totally not free Adobe products ;)
+
+## 📫 Contact Me
+
+- Email: jacob.wainwrightt@icloud.com
+
+---
